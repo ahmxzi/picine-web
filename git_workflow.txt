@@ -1,0 +1,13 @@
+Git Development Workflow:
+
+1. Edit: Modify existing code or create new source files in your local workspace.
+   $ vim README.md
+
+2. Add: Stage your modified or newly created files to prepare them for commit.
+   $ git add README.md
+
+3. Commit: Record your staged changes into the local repository history with a clear descriptive message.
+   $ git commit -m "Docs: Add README with Git concepts"
+
+4. Push: Upload your local commits to the remote GitHub repository.
+   $ git push origin main
