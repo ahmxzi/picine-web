@@ -1,0 +1,4 @@
+this is the second line
+this is the second line
+temp_file.txt removed
+./manage_files.sh: 12: echo=== Done ===: not found

@@ -1,0 +1,40 @@
+.:
+total 0
+drwxr-xr-x 5 aal-absi _amman 51 Oct  1 15:07 .
+drwxr-xr-x 4 aal-absi _amman 74 Oct  1 15:07 ..
+drwxr-xr-x 2 aal-absi _amman  6 Oct  1 15:07 archives
+drwxr-xr-x 3 aal-absi _amman 17 Oct  1 15:07 projects
+drwxr-xr-x 2 aal-absi _amman  6 Oct  1 15:07 tools
+
+./archives:
+total 0
+drwxr-xr-x 2 aal-absi _amman  6 Oct  1 15:07 .
+drwxr-xr-x 5 aal-absi _amman 51 Oct  1 15:07 ..
+
+./projects:
+total 0
+drwxr-xr-x 3 aal-absi _amman 17 Oct  1 15:07 .
+drwxr-xr-x 5 aal-absi _amman 51 Oct  1 15:07 ..
+drwxr-xr-x 4 aal-absi _amman 37 Oct  1 15:07 web
+
+./projects/web:
+total 0
+drwxr-xr-x 4 aal-absi _amman 37 Oct  1 15:07 .
+drwxr-xr-x 3 aal-absi _amman 17 Oct  1 15:07 ..
+drwxr-xr-x 2 aal-absi _amman  6 Oct  1 15:07 backend
+drwxr-xr-x 2 aal-absi _amman  6 Oct  1 15:07 frontend
+
+./projects/web/backend:
+total 0
+drwxr-xr-x 2 aal-absi _amman  6 Oct  1 15:07 .
+drwxr-xr-x 4 aal-absi _amman 37 Oct  1 15:07 ..
+
+./projects/web/frontend:
+total 0
+drwxr-xr-x 2 aal-absi _amman  6 Oct  1 15:07 .
+drwxr-xr-x 4 aal-absi _amman 37 Oct  1 15:07 ..
+
+./tools:
+total 0
+drwxr-xr-x 2 aal-absi _amman  6 Oct  1 15:07 .
+drwxr-xr-x 5 aal-absi _amman 51 Oct  1 15:07 ..
