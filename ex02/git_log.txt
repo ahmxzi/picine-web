@@ -1,0 +1,5 @@
+commit f02f351a471676595983f87569f944a37eb8df45
+Author: ahmxzi <aahmad.alabsi@gmail.com>
+Date:   Sun Oct 4 14:41:00 2026 +0300
+
+    Initial commit with hello.txt
